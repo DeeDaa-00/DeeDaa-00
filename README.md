@@ -2,7 +2,7 @@
   <img src="https://github.com/DeeDaa-00/DeeDaa-00/blob/main/Deena-Darwish%20.png" width="100%">
 </p>
 <p align="center">
-  <img src="https://github.com/DeeDaa-00/DeeDaa-00/blob/main/Profile.gif" width="400">
+  <img src="" width="400">
 </p>
 ## Hi there 👋
 
