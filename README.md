@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DeeDaa-00/DeeDaa-00/blob/main/%20.jpg" width="100%">
+  <img src="" width="100%">
 </p>
 
 ## Hi there 👋
