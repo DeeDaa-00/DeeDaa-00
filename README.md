@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/DeeDaa-00/DeeDaa-00/blob/main/Deena-Darwish%20.png" width="100%">
-  <img src="https://github.com/DeeDaa-00/DeeDaa-00/blob/main/Your%20paragraph%20text.gif" width="100%">
+  <img src="https://github.com/DeeDaa-00/DeeDaa-00/blob/main/scrolling%20marquee.gif" width="100%">
 </p>
 <p align="center">
   <img src="https://github.com/DeeDaa-00/DeeDaa-00/blob/main/Banner.gif" width="400">
