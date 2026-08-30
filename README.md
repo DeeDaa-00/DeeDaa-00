@@ -12,7 +12,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Deena+Darwish;Management+Information+Systems;Data+Analytics;Cloud+Management&center=true&width=600&height=50">
 </p>
-## Hi there 👋
+## <!-- 👩🏻‍💻 About Me: a short introduction about my background and interests -->
+
+## 👩🏻‍💻 About Me
+
+I'm a Management Information Systems graduate passionate about technology,
+data analytics, cloud management, and AI.
+
+I enjoy turning data and technology into practical solutions that solve
+real-world business problems.
 
 <!--
 **DeeDaa-00/DeeDaa-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
