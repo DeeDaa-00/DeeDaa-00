@@ -22,6 +22,28 @@ data analytics, cloud management, and AI.
 I enjoy turning data and technology into practical solutions that solve
 real-world business problems.
 
+<!-- 🛠️ Technology Stack: lists the programming languages, data tools, cloud platforms, design tools, and software I work with -->
+
+## 🛠️ Technology Stack
+
+### 💻 Programming
+Python • JavaScript • HTML • CSS
+
+### 📊 Data & Analytics
+SQL • Machine learning
+
+### 📈 Business Intelligence
+Power BI • Tableau • Excel
+
+### ☁️ Cloud
+Microsoft Azure • AWS
+
+### 🎨 Design & Development
+Canva • Figma • VS Code
+
+### 🔧 Tools & Platforms
+GitHub • Jira • Zoho • n8n • Mendix • SAP
+
 <!--
 **DeeDaa-00/DeeDaa-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
