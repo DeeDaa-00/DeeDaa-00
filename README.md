@@ -8,9 +8,9 @@
 <p align="center">
   <img src="https://github.com/DeeDaa-00/DeeDaa-00/blob/main/Banner.gif" width="400">
 </p>
-<!-- ⌨️ Animated typing effect: displays my professional roles/interests with a typing animation -->
+<!-- ⌨️ Animated typing effect: shows my name, degree, and areas of expertise -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=MIS+Graduate;Data+Analytics+%7C+AI+%7C+Cloud;IT+%7C+Technology+Enthusiast&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Deena+Darwish;Management+Information+Systems;Data+Analytics;Cloud+Management&center=true&width=600&height=50">
 </p>
 ## Hi there 👋
 
